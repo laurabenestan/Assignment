@@ -1,6 +1,14 @@
----
-output: github_document
----
+# Codes for the paper : "Sebastes spp."
+
+_______________________________________________________________________________
+
+#### Laura Benestan and Thierry Gosselin
+
+Montpellier - Montréal, 2020
+
+Submited to Evolutionary Applications, 2020
+
+_______________________________________________________________________________
 
 # Assignment tests
 
