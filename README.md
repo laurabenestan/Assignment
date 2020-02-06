@@ -2,9 +2,9 @@
 
 _______________________________________________________________________________
 
-#### Laura Benestan and Thierry Gosselin
+#### Laura Benestan 
 
-Montpellier - Montréal, 2020
+Montpellier, 2020
 
 Submited to Evolutionary Applications, 2020
 
