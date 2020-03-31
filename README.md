@@ -64,7 +64,7 @@ Here we decide to subsample 30 individuals in each population as it was the mini
 In R you can run.
 ```r
 test1 <- assigner::assignment_ngs(
-  data = sebastes,
+  data = tidy_sebastes,
   assignment.analysis = "gsi_sim",
   marker.number = c(1,2,5,10,100,200,1000,2000),
   markers.sampling = "ranked",
